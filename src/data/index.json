@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Frontend service uses React and Next.js for dynamic web apps, offering efficient rendering, SEO features, and server-side rendering for modern UI."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Backend development service utilizing Node.js, Express.js, MongoDB, and TypeScript, delivering scalable, efficient, and secure solutions."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI/UX design service crafts intuitive, visually appealing interfaces for digital products. Through user research, wireframing, prototyping, and testing."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Webflow development enables rapid creation of responsive websites without coding. Its intuitive visual interface and powerful features facilitate design. "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "BookMyKothi",
+      "description": "A full stack real estate booking web app build uing MERN stack",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "SnakeDraw",
+      "description": "A replica of excalidraw build using Tldraw, Nextjs, TailwindCss",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "BhojanThaal",
+      "description": "A full stack restaurent food booking web app build uing MERN stack",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "frontend developemnt was so aweson for my AI Startup, totally love it.",
+      "author_name": "Dianne Russel",
+      "author_designation": "Weat.in"
+    },
+    {
+      "id": "2",
+      "count": "3",
+      "src": "./img/avatar-image-1.png",
+      "description": "I mean just recieved my website and the product was exact as promised, thanky sudo.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Novel Library"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Good Price, good  quality, on time delivery of my website, just amazing service",
+      "author_name": "Kath Daniel",
+      "author_designation": "Anime Website"
+    }
+  ]
+}
